@@ -26,3 +26,4 @@ El arroz con pollo es un plato delicioso y tradicional, preparado con arroz, pol
 5. **Añadir el arroz:** agrega las dos tazas de arroz y mezcla con el guiso.
 6. **Incorporar el pollo:** añade el pollo desmechado y el caldo.
 7. **Cocinar:** deja cocinar a fuego medio hasta que el arroz absorba el líquido
+Receta mejorada durante la práctica de GitHub Flow.
